@@ -1,5 +1,4 @@
 name: Alex Recommends
-uses: brown-ccv/alex-recommends@v1.1.2
 
 on: pull_request_target
 
